@@ -1,0 +1,14 @@
+debug/main.o
+debug/game.o
+debug/game_object.o
+debug/pacman.o
+debug/ghost.o
+debug/chasing_strategy.o
+debug/mainwindow.o
+debug/MenuScene.o
+debug/StoreDialog.o
+debug/qrc_resources.o
+debug/moc_game.o
+debug/moc_mainwindow.o
+debug/moc_MenuScene.o
+debug/moc_StoreDialog.o

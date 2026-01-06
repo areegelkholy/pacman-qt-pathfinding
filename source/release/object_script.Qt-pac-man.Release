@@ -1,0 +1,14 @@
+release/main.o
+release/game.o
+release/game_object.o
+release/pacman.o
+release/ghost.o
+release/chasing_strategy.o
+release/mainwindow.o
+release/MenuScene.o
+release/StoreDialog.o
+release/qrc_resources.o
+release/moc_game.o
+release/moc_mainwindow.o
+release/moc_MenuScene.o
+release/moc_StoreDialog.o
